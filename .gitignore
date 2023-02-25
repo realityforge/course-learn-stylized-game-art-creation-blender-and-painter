@@ -3,6 +3,9 @@
 # Local temp directories
 **/tmp/*
 
+# Ignore the Blender autosaves
+**/*.blend1
+
 # Ignore the Substance painter autosaves
 **/*_autosave_*.spp
 
