@@ -30,6 +30,8 @@ There are two sections in this course. The teacher provided files for each secti
 
 ### Section 1: The Hammer
 
+This section focused on modelling, sculpting and texturing a hammer. The Substance Painter project file is available [here](https://github.com/realityforge/course-learn-stylized-game-art-creation-blender-and-painter/releases/tag/Section1_Complete) but the remaining files are found in Section1 directory of this repository.
+
 <figure>
 <figcaption>The final Hammer render</figcaption>
 <img src="Section1/Production/Hammer.png">
