@@ -11,3 +11,6 @@
 
 # Ignore the Substance painter lock files
 **/*.spp.painter_lock
+
+# Ignore the cache files of ... baking?
+**/*.assbin
