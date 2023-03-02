@@ -25,3 +25,12 @@ This contains the work created when completing the course [Learn Stylized Game A
 
 There are two sections in this course. The teacher provided files for each section are available on the following pages:
 * [Section 1](https://github.com/realityforge/course-learn-stylized-game-art-creation-blender-and-painter/releases/tag/Section1_Start)
+
+## Final Results
+
+### Section 1: The Hammer
+
+<figure>
+<figcaption>The final Hammer render</figcaption>
+<img src="Section1/Production/Hammer.png">
+</figure>
