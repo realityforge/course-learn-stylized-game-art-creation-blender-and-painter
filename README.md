@@ -36,3 +36,12 @@ This section focused on modelling, sculpting and texturing a hammer. The Substan
 <figcaption>The final Hammer render</figcaption>
 <img src="Section1/Production/Hammer.png">
 </figure>
+
+### Section 2: The Sword
+
+This section focused on modelling, sculpting and texturing a sword. The Substance Painter project file, final Blender file and exported high-resolution FBX files are available [here](https://github.com/realityforge/course-learn-stylized-game-art-creation-blender-and-painter/releases/tag/Section2_Complete) but the remaining files are found in Section2 directory of this repository.
+
+<figure>
+<figcaption>The final Sword render</figcaption>
+<img src="Section1/Production/Sword.png">
+</figure>
