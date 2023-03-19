@@ -43,5 +43,5 @@ This section focused on modelling, sculpting and texturing a sword. The Substanc
 
 <figure>
 <figcaption>The final Sword render</figcaption>
-<img src="Section1/Production/Sword.png">
+<img src="Section2/Production/Sword.png">
 </figure>
