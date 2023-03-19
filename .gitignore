@@ -16,3 +16,8 @@
 **/*.assbin
 
 Section1/Hammer.spp
+Section2/Sword.spp
+Section2/Sword_*.fbx
+Section2/Sword[0-9].blend
+Section2/Sword[0-9][0-9].blend
+Section2/Sword_HighRes.blend
